@@ -1,4 +1,4 @@
-# Script Python per il preprocessing e l'addestramento dei Modelli
+# Script Python per il preprocessing e l'addestramento dei modelli
 
 Questa repository contiene una raccolta di esempi di script Python sviluppati e utilizzati nell’ambito della tesi di laurea triennale:
 **"IDENTIFICAZIONE DI ATTACCHI WEB CON INTELLIGENZA ARTIFICIALE"** di Veronica Tavazzi (12247A).
